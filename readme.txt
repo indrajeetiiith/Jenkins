@@ -1,7 +1,7 @@
-the first line contains mavenir in it
+the first line contains rakuten in it
 second line
-the third line contains mavenir in it
-com.mavenir.ordermanagement
+the third line contains rakuten in it
+com.rakuten.ordermanagement
 2nd commit
 1st commit
 some changes for PR
